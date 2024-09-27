@@ -1,5 +1,3 @@
-Copyright (C) 2019 The LineageOS Project
-
 Device configuration for realme 3 Pro/X Lite
 =========================================
 
